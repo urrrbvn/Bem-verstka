@@ -1,0 +1,778 @@
+/* montserrat-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/montserrat-v26-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  /* montserrat-700 - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: url('fonts/montserrat-v26-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  /* poppins-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/poppins-v20-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  /* poppins-700 - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    src: url('fonts/poppins-v20-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  /* nunito-sans-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/nunito-sans-v15-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  /* nunito-sans-700 - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url('fonts/nunito-sans-v15-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  /* nunito-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/nunito-v26-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  /* nunito-700 - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    src: url('fonts/nunito-v26-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+body{
+    width: 1440px;
+    height: 5620px;
+    margin: 0
+}
+
+.header__menu{
+
+    width: 894px;
+    height: 32.99px;
+    left: 422px;
+    top: 77px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.header__logo{
+    position: absolute;
+    width: 177px;
+    height: 48px;
+    left: 100px;
+    top: 71px;
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 120%;
+    /* identical to box height, or 48px */
+    letter-spacing: 1px;
+    
+    color: #282A30;
+}
+.header__menu-home{
+    position: absolute;
+    width: 55px;
+    height: 23px;
+    left: 422px;
+    top: 77px;
+    
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 120%;
+    letter-spacing: 1px;
+    
+    color: #282A30;
+}
+.header__menu-about{position: absolute;
+    width: 57px;
+    height: 23px;
+    left: 583px;
+    top: 77px;
+    
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 120%;
+
+    letter-spacing: 1px;
+    
+    color: #282A30;}
+.header__menu-collection{
+    position: absolute;
+width: 93px;
+height: 23px;
+left: 746px;
+top: 77px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 120%;
+/* identical to box height, or 23px */
+letter-spacing: 1px;
+
+color: #282A30;
+}
+.header__menu-shop{
+position: absolute;
+width: 48px;
+height: 23px;
+left: 945px;
+top: 77px;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 120%;
+/* identical to box height, or 23px */
+letter-spacing: 1px;
+color: #282A30;
+}
+.header__menu-cartIcon{
+width: 18px;
+height: 21.49px;
+
+border: 2px;
+position: absolute;
+top: 84.2px;
+left: 1186px;
+}
+.header__menu-searchIcon{
+width: 27px;
+height: 29.02px;
+
+position: absolute;
+top: 80.98px;
+left: 1289px;
+}
+.info{
+width: 1425px;
+height: 767px;
+position: absolute;
+top: 208px;
+left: -45px;
+
+}
+.info__text{
+    width: 600px;
+    height: 227px;
+    position: absolute;
+    top: 192px;
+    left: 100px;
+
+    font-family: Montserrat;
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.info__title{
+    position: absolute;
+    width: 271px;
+    height: 0px;
+    left: 100px;
+    top: 130px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0;
+    /* identical to box height, or 0px */
+    
+    color: #F7515C;
+}
+.info__rectangle{
+position: absolute;
+width: 35px;
+height: 264px;
+left: 45px;
+top: 34px;
+
+background: #F7515C;
+}
+.info__decorations{
+    position: absolute;
+    width: 896px;
+    height: 698.5px;
+    left: -45px;
+    top: 34px;
+}
+.info__image{
+    position: absolute;
+width: 465px;
+height: 698px;
+left: 837px;
+top: 34px;
+
+background: url(img/image\ 1.png);
+}
+.info__button{
+position: absolute;
+width: 207px;
+height: 78px;
+left: 100px;
+top: 480px;
+
+}
+.btn{
+
+    width: 207px;
+    height: 78px;
+
+    background-color: #F7515C;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    
+    color: white;
+    
+
+}
+.btn:hover{
+
+    width: 207px;
+    height: 78px;
+
+    background-color: #ff8b92;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    
+    color: white;
+    
+
+}
+.info__watchIcon{
+    height: 198px;
+    width: 202px;
+
+    position: absolute  ;
+}
+.info__videoBtn{
+    position: absolute;
+width: 225px;
+height: 58px;
+left: 374px;
+top: 480px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.info__ellipse{
+    position: absolute;
+    top: -62px;
+}
+.info__vector{
+    size: 21px;
+    width: 21px;
+    position: absolute;
+    top: 85.5px;
+    left: 94.5px;
+
+}
+.info__watchText{
+    position: absolute;
+width: 243px;
+height: 27px;
+left: 150px;
+top: 20px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: #282A30;
+}
+.info2{
+width: 1177px;
+height: 810.29px;
+top: 1225px;
+left: 52px;
+
+position: absolute;
+
+}
+.info2__img{
+    background-image: url(img/image\ 2.png);
+    position: absolute;
+    width: 483px;
+    height: 723px;
+    left: 100px;
+
+}
+.info2__title{
+    position: absolute;
+width: 57px;
+height: 23px;
+left: 681px;
+top: 77px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 120%;
+/* identical to box height, or 23px */
+letter-spacing: 1px;
+
+color: #282A30;
+}
+.info2__furniture{
+    position: absolute;
+    left: 681px;
+    top: 130px;
+    width: 491px;
+height: 122px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 122px;
+/* identical to box height */
+color: white;
+-webkit-text-stroke: 2px #282A30;
+}
+.info2__text{
+    position: absolute;
+width: 518px;
+height: 128px;
+left: 681px;
+top: 270px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 40px;
+
+color: rgba(40, 42, 48, 0.5);
+}
+.info2__button{
+    position: absolute;
+    top: 450px;
+    left: 681px;
+}
+.info2__rectangle{
+    position: absolute;
+width: 440px;
+height: 305px;
+left: 185px;
+top: 300px;
+
+background-color: #282A30;
+}
+.info2__rectangle2{
+    position: absolute;
+    width: 205px;
+    height: 180px;
+    left: 52px;
+    top: 506px;
+    
+    background: #282A30; 
+}
+.info2__dots{
+    position: absolute;
+    position: absolute;
+    left: 160px;
+    top: 500px;
+
+}
+.info3{
+    position: absolute;
+width: 1228px;
+height: 1026.29px;
+left: 86px;
+top: 2242px;
+
+}
+.info3__title{
+    position: absolute;
+width: 438px;
+height: 49px;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+/* identical to box height */
+
+color: #000000;
+
+}
+.info3__furniture{
+    position: absolute;
+    top: 40px;
+    width: 491px;
+height: 122px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 122px;
+/* identical to box height */
+color: white;
+-webkit-text-stroke: 2px #282A30;
+}
+.info3__image{
+
+width: 1009px;
+height: 577px;
+
+position: absolute;
+left: 109.5px;
+top: 224.6px;
+
+background: url(img/Rectangle\ 9.png);
+}
+.card{
+width: 449px;
+height: 199px;
+background: #FFFFFF;
+box-shadow: 20px 4px 100px rgba(0, 0, 0, 0.1);
+}
+.card_positionFirst{
+    position: absolute;
+
+top: 300px;
+
+}
+.card__circle{
+width: 51px;
+height: 51px;
+position: absolute;
+left: 50px;
+top: 50px;
+}
+.card__title{
+    position: absolute;
+width: 449px;
+height: 199px;
+top:64px;
+left: 130px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #282A30;
+}
+.card__text{
+    position: absolute;
+width: 238px;
+height: 42px;
+left: 130px;
+top: 100px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: rgba(40, 42, 48, 0.4);
+}
+.card_positionSecond{
+position: absolute;
+
+top: 152px;
+left:631px;
+
+}
+.card_positionThird{
+    position: absolute;
+
+    top: 687px;
+    left:760px;
+
+}
+.info3__dots{
+    position: absolute;
+    top: 687px;
+    left: 179px;
+}
+.info4{
+    width: 1219px;
+height: 642px;
+top: 3434px;
+left: 95px;
+position: absolute;
+
+
+
+}
+.info4__text{
+    position: absolute;
+width: 428px;
+height: 49px;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+
+
+color: #282A30;
+}
+.info4__title{
+    position: absolute;
+    top: 30px;
+    width: 491px;
+height: 122px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 122px;
+color: white;
+-webkit-text-stroke: 2px #282A30;  
+}
+.product{
+width: 278px;
+height: 427px;
+
+display: flex;
+flex-direction: column;
+
+
+}
+
+.product_positionFirst{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+.product_positionSecond{
+    position: absolute;
+    left: 313.6px;
+    bottom: 0px;
+}
+.product_positionThird{
+    position: absolute;
+    left: 627.2px;
+    bottom: 0px;
+}
+.product_positionFourth{
+    position: absolute;
+    left: 940.8px;
+    bottom: 0px;
+}
+.product__text{
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 3;
+
+
+}
+.product__image{
+
+width: 278px;
+height: 312px;
+
+filter: drop-shadow(0px 4px 100px rgba(0, 0, 0, 0.02));
+}
+.product__price{
+text-align: center;
+width: 278px;
+height: 27px;
+margin-top: 20px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 27px;
+
+color: rgba(40, 42, 48, 0.3);
+}
+.product__name{
+margin-top: 40px;
+width: 278px;
+height: 40px;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+
+
+color: #282A30;
+}
+.product__image_lamp{
+    background-image: url(img/Rectangle\ 11.png);
+    background-position: center;
+}
+.product__image_chair{
+    background-image: url(img/2.png);
+    background-position: center;
+}
+.product__image_chandelier{
+    background-image: url(img/3.png);
+    background-position: center;
+}
+.product__image_clock{
+    background-image: url(img/4.png);
+    background-position: center;
+}
+.info5{
+    position: absolute;
+    top: 4354px;
+    left: 200px;
+    height: 714px;
+    width: 1000px;
+    /* background-color: aquamarine; */
+}
+.info5__title{
+    position: absolute;
+    top: 195px;
+    width: 491px;
+height: 122px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 122px;
+/* identical to box height */
+color: white;
+-webkit-text-stroke: 2px #282A30;
+}
+.info5__text{
+    position: absolute;
+width: 432px;
+height: 122px;
+top: 300px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 122px;
+/* identical to box height */
+
+color: #282A30;
+}
+.info5__button{
+    position: absolute;
+    top: 500px;
+}
+.info5__image{
+    background-image: url(img/Rectangle\ 18.png);
+    position: absolute;
+    left: 550px;
+    width: 506px;
+    height: 714px;
+}
+.info5__dots{
+    position: absolute;
+    left: 638px;
+    top: 356px;
+    width: 482px;
+    height: 301px;
+}
+.footer{
+    position: absolute;
+    top: 5216px;
+    left: 99px;
+    width: 1242px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+
+}
+.footer__text{
+    width: 1242px;
+    height: 230px;
+    margin-top: 70px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer__block{
+    height: 230px;
+    width: 249px;
+
+    text-align: center;
+}
+h2{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 120%;
+/* or 31px */
+letter-spacing: 1px;
+
+
+}
+p{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+letter-spacing: 1px;
+
+color: rgba(40, 42, 48, 0.8);
+}
+

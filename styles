@@ -1,0 +1,5439 @@
+/* Desktop */
+
+position: relative;
+width: 1440px;
+height: 5620px;
+
+background: #FFFFFF;
+
+
+/* Group 14 */
+
+position: absolute;
+left: 58.26%;
+right: 8.26%;
+top: 84.36%;
+bottom: 10.28%;
+
+
+
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 739px;
+height: 504px;
+left: 375px;
+top: 4256px;
+
+background: rgba(251, 251, 251, 0.4);
+
+
+/* Let’s */
+
+position: absolute;
+width: 245px;
+height: 122px;
+left: 95px;
+top: 4508px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 122px;
+/* identical to box height */
+
+border: 2px solid #282A30;
+
+
+/* Try Now */
+
+position: absolute;
+width: 432px;
+height: 122px;
+left: 95px;
+top: 4630px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 122px;
+/* identical to box height */
+
+color: #282A30;
+
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 506px;
+height: 714px;
+left: 745px;
+top: 4354px;
+
+background: url(image.png);
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 240px;
+height: 90px;
+left: 95px;
+top: 4816px;
+
+background: #F7515C;
+
+
+/* Explore */
+
+position: absolute;
+width: 102px;
+height: 32px;
+left: 164px;
+top: 4845px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 32px;
+/* identical to box height */
+
+color: #FFEDED;
+
+
+
+/* Furniutr. */
+
+position: absolute;
+width: 177px;
+height: 48px;
+left: 100px;
+top: 71px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 120%;
+/* identical to box height, or 48px */
+letter-spacing: 1px;
+
+color: #282A30;
+
+
+
+/* Our services */
+
+position: absolute;
+width: 155px;
+height: 31px;
+left: 420px;
+top: 5318px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 120%;
+/* or 31px */
+letter-spacing: 1px;
+
+color: #282A30;
+
+
+
+/* Get’s your discount */
+
+position: absolute;
+width: 132px;
+height: 72px;
+left: 100px;
+top: 5318px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 120%;
+/* or 31px */
+letter-spacing: 1px;
+
+color: #282A30;
+
+
+
+/* Company */
+
+position: absolute;
+width: 118px;
+height: 31px;
+left: 745px;
+top: 5318px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 120%;
+/* or 31px */
+letter-spacing: 1px;
+
+color: #282A30;
+
+
+
+/* Contact */
+
+position: absolute;
+width: 99px;
+height: 31px;
+left: 1067px;
+top: 5318px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 120%;
+/* or 31px */
+letter-spacing: 1px;
+
+color: #282A30;
+
+
+
+/* Collection */
+
+position: absolute;
+width: 100px;
+height: 22px;
+left: 420px;
+top: 5400px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+letter-spacing: 1px;
+
+color: rgba(40, 42, 48, 0.8);
+
+
+
+/* Terms of use */
+
+position: absolute;
+width: 125px;
+height: 22px;
+left: 745px;
+top: 5400px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+letter-spacing: 1px;
+
+color: rgba(40, 42, 48, 0.8);
+
+
+
+/* Furniutr2@furniture.com */
+
+position: absolute;
+width: 249px;
+height: 22px;
+left: 1067px;
+top: 5400px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+letter-spacing: 1px;
+
+color: rgba(40, 42, 48, 0.8);
+
+
+
+/* How its work */
+
+position: absolute;
+width: 128px;
+height: 22px;
+left: 420px;
+top: 5449px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+letter-spacing: 1px;
+
+color: rgba(40, 42, 48, 0.8);
+
+
+
+/* Privacy policy */
+
+position: absolute;
+width: 135px;
+height: 22px;
+left: 745px;
+top: 5449px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+letter-spacing: 1px;
+
+color: rgba(40, 42, 48, 0.8);
+
+
+
+/* (888) 315-500 */
+
+position: absolute;
+width: 131px;
+height: 22px;
+left: 1067px;
+top: 5449px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+letter-spacing: 1px;
+
+color: rgba(40, 42, 48, 0.8);
+
+
+
+/* Estimats */
+
+position: absolute;
+width: 86px;
+height: 22px;
+left: 420px;
+top: 5498px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+letter-spacing: 1px;
+
+color: rgba(40, 42, 48, 0.8);
+
+
+
+/* Careers */
+
+position: absolute;
+width: 75px;
+height: 22px;
+left: 745px;
+top: 5498px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+letter-spacing: 1px;
+
+color: rgba(40, 42, 48, 0.8);
+
+
+
+/* St. VIllage, New York */
+
+position: absolute;
+width: 154px;
+height: 49px;
+left: 1067px;
+top: 5498px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* or 22px */
+letter-spacing: 1px;
+
+color: rgba(40, 42, 48, 0.8);
+
+
+
+/* Check now ! */
+
+position: absolute;
+width: 120px;
+height: 22px;
+left: 100px;
+top: 5424px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+letter-spacing: 1px;
+
+color: rgba(40, 42, 48, 0.8);
+
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 1242px;
+height: 2px;
+left: 99px;
+top: 5216px;
+
+background: #282A30;
+
+
+/* More value */
+
+position: absolute;
+width: 1228px;
+height: 1026.29px;
+left: 86px;
+top: 2242px;
+
+
+
+/* More value from this */
+
+position: absolute;
+width: 428px;
+height: 49px;
+left: 95px;
+top: 2242px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Furniture */
+
+position: absolute;
+width: 491px;
+height: 122px;
+left: 95px;
+top: 2291px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 122px;
+/* identical to box height */
+
+border: 2px solid rgba(40, 42, 48, 0.5);
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 940px;
+height: 511px;
+left: 235px;
+top: 2566px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 100px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 1009px;
+height: 577px;
+left: 216px;
+top: 2500px;
+
+background: url(image.png);
+
+
+/* Full services */
+
+position: absolute;
+width: 449px;
+height: 199px;
+left: 86px;
+top: 2590px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 449px;
+height: 199px;
+left: 86px;
+top: 2590px;
+
+background: #FFFFFF;
+box-shadow: 20px 4px 100px rgba(0, 0, 0, 0.1);
+
+
+/* Group 15 */
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 130px;
+top: 2634px;
+
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 130px;
+top: 2634px;
+
+background: rgba(247, 81, 92, 0.05);
+
+
+/* 1 */
+
+position: absolute;
+width: 12px;
+height: 23px;
+left: 150px;
+top: 2648px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #F7515C;
+
+
+
+/* Full services */
+
+position: absolute;
+width: 129px;
+height: 24px;
+left: 203px;
+top: 2648px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #282A30;
+
+
+
+/* Provide the best service and very fast response. */
+
+position: absolute;
+width: 238px;
+height: 42px;
+left: 203px;
+top: 2685px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: rgba(40, 42, 48, 0.4);
+
+
+
+/* Modern design */
+
+position: absolute;
+width: 449px;
+height: 199px;
+left: 865px;
+top: 2962px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 449px;
+height: 199px;
+left: 865px;
+top: 2962px;
+
+background: #FFFFFF;
+box-shadow: 20px 4px 100px rgba(0, 0, 0, 0.1);
+
+
+/* Group 15 */
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 909px;
+top: 3006px;
+
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 909px;
+top: 3006px;
+
+background: rgba(247, 81, 92, 0.05);
+
+
+/* 3 */
+
+position: absolute;
+width: 12px;
+height: 23px;
+left: 929px;
+top: 3020px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #F7515C;
+
+
+
+/* Modern design */
+
+position: absolute;
+width: 158px;
+height: 24px;
+left: 982px;
+top: 3020px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #282A30;
+
+
+
+/* The room looks beautiful with a blend of contemporary and attractive design. */
+
+position: absolute;
+width: 255px;
+height: 42px;
+left: 982px;
+top: 3057px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: rgba(40, 42, 48, 0.4);
+
+
+
+/* Long warranty */
+
+position: absolute;
+width: 449px;
+height: 199px;
+left: 735px;
+top: 2449px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 449px;
+height: 199px;
+left: 735px;
+top: 2449px;
+
+background: #FFFFFF;
+box-shadow: 20px 4px 100px rgba(0, 0, 0, 0.1);
+
+
+/* Group 15 */
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 779px;
+top: 2493px;
+
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 779px;
+top: 2493px;
+
+background: rgba(247, 81, 92, 0.05);
+
+
+/* 2 */
+
+position: absolute;
+width: 12px;
+height: 23px;
+left: 799px;
+top: 2507px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #F7515C;
+
+
+
+/* Long warranty. */
+
+position: absolute;
+width: 164px;
+height: 24px;
+left: 852px;
+top: 2507px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #282A30;
+
+
+
+/* With a 5-year warranty provided, providing satisfying service. */
+
+position: absolute;
+width: 271px;
+height: 65px;
+left: 852px;
+top: 2544px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: rgba(40, 42, 48, 0.4);
+
+
+
+/* Group 14 */
+
+position: absolute;
+left: 19.79%;
+right: 46.73%;
+top: 52.7%;
+bottom: 41.85%;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 19.79%;
+right: 79.58%;
+top: 52.7%;
+bottom: 47.12%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 22.53%;
+right: 76.84%;
+top: 52.7%;
+bottom: 47.12%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 25.27%;
+right: 74.1%;
+top: 52.7%;
+bottom: 47.12%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 28%;
+right: 71.37%;
+top: 52.7%;
+bottom: 47.12%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 30.74%;
+right: 68.63%;
+top: 52.7%;
+bottom: 47.12%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 33.48%;
+right: 65.89%;
+top: 52.7%;
+bottom: 47.12%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 36.21%;
+right: 63.15%;
+top: 52.7%;
+bottom: 47.12%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 38.95%;
+right: 60.42%;
+top: 52.7%;
+bottom: 47.12%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 41.69%;
+right: 57.68%;
+top: 52.7%;
+bottom: 47.12%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 44.43%;
+right: 54.94%;
+top: 52.7%;
+bottom: 47.12%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 47.16%;
+right: 52.21%;
+top: 52.7%;
+bottom: 47.12%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 49.9%;
+right: 49.47%;
+top: 52.7%;
+bottom: 47.12%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 52.64%;
+right: 46.73%;
+top: 52.7%;
+bottom: 47.12%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 19.79%;
+right: 79.58%;
+top: 53.46%;
+bottom: 46.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 22.53%;
+right: 76.84%;
+top: 53.46%;
+bottom: 46.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 25.27%;
+right: 74.1%;
+top: 53.46%;
+bottom: 46.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 28%;
+right: 71.37%;
+top: 53.46%;
+bottom: 46.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 30.74%;
+right: 68.63%;
+top: 53.46%;
+bottom: 46.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 33.48%;
+right: 65.89%;
+top: 53.46%;
+bottom: 46.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 36.21%;
+right: 63.15%;
+top: 53.46%;
+bottom: 46.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 38.95%;
+right: 60.42%;
+top: 53.46%;
+bottom: 46.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 41.69%;
+right: 57.68%;
+top: 53.46%;
+bottom: 46.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 44.43%;
+right: 54.94%;
+top: 53.46%;
+bottom: 46.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 47.16%;
+right: 52.21%;
+top: 53.46%;
+bottom: 46.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 49.9%;
+right: 49.47%;
+top: 53.46%;
+bottom: 46.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 52.64%;
+right: 46.73%;
+top: 53.46%;
+bottom: 46.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 19.79%;
+right: 79.58%;
+top: 54.21%;
+bottom: 45.61%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 22.53%;
+right: 76.84%;
+top: 54.21%;
+bottom: 45.61%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 25.27%;
+right: 74.1%;
+top: 54.21%;
+bottom: 45.61%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 28%;
+right: 71.37%;
+top: 54.21%;
+bottom: 45.61%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 30.74%;
+right: 68.63%;
+top: 54.21%;
+bottom: 45.61%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 33.48%;
+right: 65.89%;
+top: 54.21%;
+bottom: 45.61%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 36.21%;
+right: 63.15%;
+top: 54.21%;
+bottom: 45.61%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 38.95%;
+right: 60.42%;
+top: 54.21%;
+bottom: 45.61%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 41.69%;
+right: 57.68%;
+top: 54.21%;
+bottom: 45.61%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 44.43%;
+right: 54.94%;
+top: 54.21%;
+bottom: 45.61%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 47.16%;
+right: 52.21%;
+top: 54.21%;
+bottom: 45.61%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 49.9%;
+right: 49.47%;
+top: 54.21%;
+bottom: 45.61%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 52.64%;
+right: 46.73%;
+top: 54.21%;
+bottom: 45.61%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 19.79%;
+right: 79.58%;
+top: 54.97%;
+bottom: 44.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 22.53%;
+right: 76.84%;
+top: 54.97%;
+bottom: 44.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 25.27%;
+right: 74.1%;
+top: 54.97%;
+bottom: 44.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 28%;
+right: 71.37%;
+top: 54.97%;
+bottom: 44.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 30.74%;
+right: 68.63%;
+top: 54.97%;
+bottom: 44.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 33.48%;
+right: 65.89%;
+top: 54.97%;
+bottom: 44.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 36.21%;
+right: 63.15%;
+top: 54.97%;
+bottom: 44.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 38.95%;
+right: 60.42%;
+top: 54.97%;
+bottom: 44.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 41.69%;
+right: 57.68%;
+top: 54.97%;
+bottom: 44.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 44.43%;
+right: 54.94%;
+top: 54.97%;
+bottom: 44.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 47.16%;
+right: 52.21%;
+top: 54.97%;
+bottom: 44.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 49.9%;
+right: 49.47%;
+top: 54.97%;
+bottom: 44.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 52.64%;
+right: 46.73%;
+top: 54.97%;
+bottom: 44.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 19.79%;
+right: 79.58%;
+top: 55.72%;
+bottom: 44.11%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 22.53%;
+right: 76.84%;
+top: 55.72%;
+bottom: 44.11%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 25.27%;
+right: 74.1%;
+top: 55.72%;
+bottom: 44.11%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 28%;
+right: 71.37%;
+top: 55.72%;
+bottom: 44.11%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 30.74%;
+right: 68.63%;
+top: 55.72%;
+bottom: 44.11%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 33.48%;
+right: 65.89%;
+top: 55.72%;
+bottom: 44.11%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 36.21%;
+right: 63.15%;
+top: 55.72%;
+bottom: 44.11%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 38.95%;
+right: 60.42%;
+top: 55.72%;
+bottom: 44.11%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 41.69%;
+right: 57.68%;
+top: 55.72%;
+bottom: 44.11%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 44.43%;
+right: 54.94%;
+top: 55.72%;
+bottom: 44.11%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 47.16%;
+right: 52.21%;
+top: 55.72%;
+bottom: 44.11%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 49.9%;
+right: 49.47%;
+top: 55.72%;
+bottom: 44.11%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 52.64%;
+right: 46.73%;
+top: 55.72%;
+bottom: 44.11%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 19.79%;
+right: 79.58%;
+top: 56.47%;
+bottom: 43.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 22.53%;
+right: 76.84%;
+top: 56.47%;
+bottom: 43.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 25.27%;
+right: 74.1%;
+top: 56.47%;
+bottom: 43.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 28%;
+right: 71.37%;
+top: 56.47%;
+bottom: 43.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 30.74%;
+right: 68.63%;
+top: 56.47%;
+bottom: 43.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 33.48%;
+right: 65.89%;
+top: 56.47%;
+bottom: 43.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 36.21%;
+right: 63.15%;
+top: 56.47%;
+bottom: 43.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 38.95%;
+right: 60.42%;
+top: 56.47%;
+bottom: 43.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 41.69%;
+right: 57.68%;
+top: 56.47%;
+bottom: 43.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 44.43%;
+right: 54.94%;
+top: 56.47%;
+bottom: 43.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 47.16%;
+right: 52.21%;
+top: 56.47%;
+bottom: 43.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 49.9%;
+right: 49.47%;
+top: 56.47%;
+bottom: 43.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 52.64%;
+right: 46.73%;
+top: 56.47%;
+bottom: 43.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 19.79%;
+right: 79.58%;
+top: 57.23%;
+bottom: 42.6%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 22.53%;
+right: 76.84%;
+top: 57.23%;
+bottom: 42.6%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 25.27%;
+right: 74.1%;
+top: 57.23%;
+bottom: 42.6%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 28%;
+right: 71.37%;
+top: 57.23%;
+bottom: 42.6%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 30.74%;
+right: 68.63%;
+top: 57.23%;
+bottom: 42.6%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 33.48%;
+right: 65.89%;
+top: 57.23%;
+bottom: 42.6%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 36.21%;
+right: 63.15%;
+top: 57.23%;
+bottom: 42.6%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 38.95%;
+right: 60.42%;
+top: 57.23%;
+bottom: 42.6%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 41.69%;
+right: 57.68%;
+top: 57.23%;
+bottom: 42.6%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 44.43%;
+right: 54.94%;
+top: 57.23%;
+bottom: 42.6%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 47.16%;
+right: 52.21%;
+top: 57.23%;
+bottom: 42.6%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 49.9%;
+right: 49.47%;
+top: 57.23%;
+bottom: 42.6%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 52.64%;
+right: 46.73%;
+top: 57.23%;
+bottom: 42.6%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 19.79%;
+right: 79.58%;
+top: 57.98%;
+bottom: 41.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 22.53%;
+right: 76.84%;
+top: 57.98%;
+bottom: 41.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 25.27%;
+right: 74.1%;
+top: 57.98%;
+bottom: 41.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 28%;
+right: 71.37%;
+top: 57.98%;
+bottom: 41.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 30.74%;
+right: 68.63%;
+top: 57.98%;
+bottom: 41.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 33.48%;
+right: 65.89%;
+top: 57.98%;
+bottom: 41.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 36.21%;
+right: 63.15%;
+top: 57.98%;
+bottom: 41.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 38.95%;
+right: 60.42%;
+top: 57.98%;
+bottom: 41.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 41.69%;
+right: 57.68%;
+top: 57.98%;
+bottom: 41.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 44.43%;
+right: 54.94%;
+top: 57.98%;
+bottom: 41.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 47.16%;
+right: 52.21%;
+top: 57.98%;
+bottom: 41.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 49.9%;
+right: 49.47%;
+top: 57.98%;
+bottom: 41.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 52.64%;
+right: 46.73%;
+top: 57.98%;
+bottom: 41.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Product */
+
+position: absolute;
+width: 1219px;
+height: 642px;
+left: 95px;
+top: 3434px;
+
+
+
+/* Rectangle 16 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1255px;
+top: 3532px;
+
+border: 2px solid #282A30;
+border-radius: 10px;
+
+
+/* Rectangle 17 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1160px;
+top: 3532px;
+
+border: 2px solid #282A30;
+border-radius: 10px;
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 7px;
+height: 13px;
+left: 1181px;
+top: 3550px;
+
+border: 2px solid #282A30;
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 7px;
+height: 13px;
+left: 1282px;
+top: 3562px;
+
+border: 2px solid #282A30;
+transform: rotate(-180deg);
+
+
+/* 1 */
+
+position: absolute;
+width: 278px;
+height: 427px;
+left: 95px;
+top: 3649px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 278px;
+height: 312px;
+left: 95px;
+top: 3649px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 100px rgba(0, 0, 0, 0.02));
+
+
+/* Modern lamp study */
+
+position: absolute;
+width: 225px;
+height: 27px;
+left: 121px;
+top: 4005px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: #282A30;
+
+
+
+/* $258 */
+
+position: absolute;
+width: 53px;
+height: 27px;
+left: 207px;
+top: 4049px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: rgba(40, 42, 48, 0.3);
+
+
+
+/* 2 */
+
+position: absolute;
+width: 277px;
+height: 427px;
+left: 409px;
+top: 3649px;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 277px;
+height: 312px;
+left: 409px;
+top: 3649px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 100px rgba(0, 0, 0, 0.02));
+
+
+/* Modern lamp study */
+
+position: absolute;
+width: 225px;
+height: 27px;
+left: 435px;
+top: 4005px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: #282A30;
+
+
+
+/* $135 */
+
+position: absolute;
+width: 48px;
+height: 27px;
+left: 520px;
+top: 4049px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: rgba(40, 42, 48, 0.3);
+
+
+
+/* 3 */
+
+position: absolute;
+width: 277px;
+height: 427px;
+left: 723px;
+top: 3649px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 277px;
+height: 312px;
+left: 723px;
+top: 3649px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 100px rgba(0, 0, 0, 0.02));
+
+
+/* Classic lamp */
+
+position: absolute;
+width: 145px;
+height: 27px;
+left: 789px;
+top: 4005px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: #282A30;
+
+
+
+/* $425 */
+
+position: absolute;
+width: 55px;
+height: 27px;
+left: 838px;
+top: 4049px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: rgba(40, 42, 48, 0.3);
+
+
+
+/* 4 */
+
+position: absolute;
+width: 278px;
+height: 427px;
+left: 1036px;
+top: 3649px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 278px;
+height: 312px;
+left: 1036px;
+top: 3649px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 100px rgba(0, 0, 0, 0.02));
+
+
+/* Clock cute */
+
+position: absolute;
+width: 123px;
+height: 27px;
+left: 1114px;
+top: 4005px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: #282A30;
+
+
+
+/* $331 */
+
+position: absolute;
+width: 48px;
+height: 27px;
+left: 1151px;
+top: 4049px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: rgba(40, 42, 48, 0.3);
+
+
+
+/* Product */
+
+position: absolute;
+width: 428px;
+height: 171px;
+left: 95px;
+top: 3434px;
+
+
+
+/* Our you have to buy */
+
+position: absolute;
+width: 428px;
+height: 49px;
+left: 95px;
+top: 3434px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+/* identical to box height */
+
+color: #282A30;
+
+
+
+/* Product */
+
+position: absolute;
+width: 422px;
+height: 122px;
+left: 95px;
+top: 3483px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 122px;
+/* identical to box height */
+
+border: 2px solid #282A30;
+
+
+/* Header */
+
+position: absolute;
+width: 894px;
+height: 32.99px;
+left: 422px;
+top: 77px;
+
+
+
+/* Home */
+
+position: absolute;
+width: 55px;
+height: 23px;
+left: 422px;
+top: 77px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 120%;
+/* identical to box height, or 23px */
+letter-spacing: 1px;
+
+color: #282A30;
+
+
+
+/* About */
+
+position: absolute;
+width: 57px;
+height: 23px;
+left: 583px;
+top: 77px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 120%;
+/* identical to box height, or 23px */
+letter-spacing: 1px;
+
+color: #282A30;
+
+
+
+/* Collection */
+
+position: absolute;
+width: 93px;
+height: 23px;
+left: 746px;
+top: 77px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 120%;
+/* identical to box height, or 23px */
+letter-spacing: 1px;
+
+color: #282A30;
+
+
+
+/* Shop */
+
+position: absolute;
+width: 48px;
+height: 23px;
+left: 945px;
+top: 77px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 120%;
+/* identical to box height, or 23px */
+letter-spacing: 1px;
+
+color: #282A30;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 89.51%;
+right: 8.61%;
+top: 1.44%;
+bottom: 98.04%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 82.36%;
+right: 16.39%;
+top: 1.5%;
+bottom: 98.12%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 82.36%;
+right: 16.39%;
+top: 1.5%;
+bottom: 98.12%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.36%;
+right: 16.39%;
+top: 1.57%;
+bottom: 98.43%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.71%;
+right: 16.74%;
+top: 1.65%;
+bottom: 98.27%;
+
+border: 2px solid #000000;
+
+
+/* Header */
+
+position: absolute;
+width: 1425px;
+height: 767px;
+left: -45px;
+top: 208px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+left: 73.75%;
+right: 4.17%;
+top: 4.03%;
+bottom: 92.37%;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 73.75%;
+right: 25.83%;
+top: 4.03%;
+bottom: 95.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 75.56%;
+right: 24.03%;
+top: 4.03%;
+bottom: 95.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 77.36%;
+right: 22.22%;
+top: 4.03%;
+bottom: 95.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 79.17%;
+right: 20.42%;
+top: 4.03%;
+bottom: 95.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 80.97%;
+right: 18.61%;
+top: 4.03%;
+bottom: 95.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 82.78%;
+right: 16.81%;
+top: 4.03%;
+bottom: 95.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 84.58%;
+right: 15%;
+top: 4.03%;
+bottom: 95.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 86.39%;
+right: 13.19%;
+top: 4.03%;
+bottom: 95.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 88.19%;
+right: 11.39%;
+top: 4.03%;
+bottom: 95.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 90%;
+right: 9.58%;
+top: 4.03%;
+bottom: 95.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 91.81%;
+right: 7.78%;
+top: 4.03%;
+bottom: 95.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 93.61%;
+right: 5.97%;
+top: 4.03%;
+bottom: 95.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 95.42%;
+right: 4.17%;
+top: 4.03%;
+bottom: 95.85%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 73.75%;
+right: 25.83%;
+top: 4.53%;
+bottom: 95.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 75.56%;
+right: 24.03%;
+top: 4.53%;
+bottom: 95.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 77.36%;
+right: 22.22%;
+top: 4.53%;
+bottom: 95.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 79.17%;
+right: 20.42%;
+top: 4.53%;
+bottom: 95.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 80.97%;
+right: 18.61%;
+top: 4.53%;
+bottom: 95.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 82.78%;
+right: 16.81%;
+top: 4.53%;
+bottom: 95.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 84.58%;
+right: 15%;
+top: 4.53%;
+bottom: 95.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 86.39%;
+right: 13.19%;
+top: 4.53%;
+bottom: 95.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 88.19%;
+right: 11.39%;
+top: 4.53%;
+bottom: 95.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 90%;
+right: 9.58%;
+top: 4.53%;
+bottom: 95.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 91.81%;
+right: 7.78%;
+top: 4.53%;
+bottom: 95.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 93.61%;
+right: 5.97%;
+top: 4.53%;
+bottom: 95.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 95.42%;
+right: 4.17%;
+top: 4.53%;
+bottom: 95.35%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 73.75%;
+right: 25.83%;
+top: 5.03%;
+bottom: 94.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 75.56%;
+right: 24.03%;
+top: 5.03%;
+bottom: 94.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 77.36%;
+right: 22.22%;
+top: 5.03%;
+bottom: 94.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 79.17%;
+right: 20.42%;
+top: 5.03%;
+bottom: 94.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 80.97%;
+right: 18.61%;
+top: 5.03%;
+bottom: 94.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 82.78%;
+right: 16.81%;
+top: 5.03%;
+bottom: 94.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 84.58%;
+right: 15%;
+top: 5.03%;
+bottom: 94.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 86.39%;
+right: 13.19%;
+top: 5.03%;
+bottom: 94.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 88.19%;
+right: 11.39%;
+top: 5.03%;
+bottom: 94.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 90%;
+right: 9.58%;
+top: 5.03%;
+bottom: 94.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 91.81%;
+right: 7.78%;
+top: 5.03%;
+bottom: 94.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 93.61%;
+right: 5.97%;
+top: 5.03%;
+bottom: 94.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 95.42%;
+right: 4.17%;
+top: 5.03%;
+bottom: 94.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 73.75%;
+right: 25.83%;
+top: 5.53%;
+bottom: 94.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 75.56%;
+right: 24.03%;
+top: 5.53%;
+bottom: 94.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 77.36%;
+right: 22.22%;
+top: 5.53%;
+bottom: 94.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 79.17%;
+right: 20.42%;
+top: 5.53%;
+bottom: 94.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 80.97%;
+right: 18.61%;
+top: 5.53%;
+bottom: 94.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 82.78%;
+right: 16.81%;
+top: 5.53%;
+bottom: 94.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 84.58%;
+right: 15%;
+top: 5.53%;
+bottom: 94.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 86.39%;
+right: 13.19%;
+top: 5.53%;
+bottom: 94.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 88.19%;
+right: 11.39%;
+top: 5.53%;
+bottom: 94.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 90%;
+right: 9.58%;
+top: 5.53%;
+bottom: 94.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 91.81%;
+right: 7.78%;
+top: 5.53%;
+bottom: 94.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 93.61%;
+right: 5.97%;
+top: 5.53%;
+bottom: 94.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 95.42%;
+right: 4.17%;
+top: 5.53%;
+bottom: 94.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 73.75%;
+right: 25.83%;
+top: 6.02%;
+bottom: 93.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 75.56%;
+right: 24.03%;
+top: 6.02%;
+bottom: 93.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 77.36%;
+right: 22.22%;
+top: 6.02%;
+bottom: 93.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 79.17%;
+right: 20.42%;
+top: 6.02%;
+bottom: 93.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 80.97%;
+right: 18.61%;
+top: 6.02%;
+bottom: 93.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 82.78%;
+right: 16.81%;
+top: 6.02%;
+bottom: 93.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 84.58%;
+right: 15%;
+top: 6.02%;
+bottom: 93.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 86.39%;
+right: 13.19%;
+top: 6.02%;
+bottom: 93.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 88.19%;
+right: 11.39%;
+top: 6.02%;
+bottom: 93.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 90%;
+right: 9.58%;
+top: 6.02%;
+bottom: 93.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 91.81%;
+right: 7.78%;
+top: 6.02%;
+bottom: 93.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 93.61%;
+right: 5.97%;
+top: 6.02%;
+bottom: 93.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 95.42%;
+right: 4.17%;
+top: 6.02%;
+bottom: 93.86%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 73.75%;
+right: 25.83%;
+top: 6.52%;
+bottom: 93.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 75.56%;
+right: 24.03%;
+top: 6.52%;
+bottom: 93.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 77.36%;
+right: 22.22%;
+top: 6.52%;
+bottom: 93.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 79.17%;
+right: 20.42%;
+top: 6.52%;
+bottom: 93.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 80.97%;
+right: 18.61%;
+top: 6.52%;
+bottom: 93.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 82.78%;
+right: 16.81%;
+top: 6.52%;
+bottom: 93.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 84.58%;
+right: 15%;
+top: 6.52%;
+bottom: 93.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 86.39%;
+right: 13.19%;
+top: 6.52%;
+bottom: 93.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 88.19%;
+right: 11.39%;
+top: 6.52%;
+bottom: 93.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 90%;
+right: 9.58%;
+top: 6.52%;
+bottom: 93.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 91.81%;
+right: 7.78%;
+top: 6.52%;
+bottom: 93.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 93.61%;
+right: 5.97%;
+top: 6.52%;
+bottom: 93.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 95.42%;
+right: 4.17%;
+top: 6.52%;
+bottom: 93.36%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 73.75%;
+right: 25.83%;
+top: 7.02%;
+bottom: 92.87%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 75.56%;
+right: 24.03%;
+top: 7.02%;
+bottom: 92.87%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 77.36%;
+right: 22.22%;
+top: 7.02%;
+bottom: 92.87%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 79.17%;
+right: 20.42%;
+top: 7.02%;
+bottom: 92.87%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 80.97%;
+right: 18.61%;
+top: 7.02%;
+bottom: 92.87%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 82.78%;
+right: 16.81%;
+top: 7.02%;
+bottom: 92.87%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 84.58%;
+right: 15%;
+top: 7.02%;
+bottom: 92.87%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 86.39%;
+right: 13.19%;
+top: 7.02%;
+bottom: 92.87%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 88.19%;
+right: 11.39%;
+top: 7.02%;
+bottom: 92.87%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 90%;
+right: 9.58%;
+top: 7.02%;
+bottom: 92.87%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 91.81%;
+right: 7.78%;
+top: 7.02%;
+bottom: 92.87%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 93.61%;
+right: 5.97%;
+top: 7.02%;
+bottom: 92.87%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 95.42%;
+right: 4.17%;
+top: 7.02%;
+bottom: 92.87%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 73.75%;
+right: 25.83%;
+top: 7.52%;
+bottom: 92.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 75.56%;
+right: 24.03%;
+top: 7.52%;
+bottom: 92.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 77.36%;
+right: 22.22%;
+top: 7.52%;
+bottom: 92.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 79.17%;
+right: 20.42%;
+top: 7.52%;
+bottom: 92.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 80.97%;
+right: 18.61%;
+top: 7.52%;
+bottom: 92.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 82.78%;
+right: 16.81%;
+top: 7.52%;
+bottom: 92.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 84.58%;
+right: 15%;
+top: 7.52%;
+bottom: 92.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 86.39%;
+right: 13.19%;
+top: 7.52%;
+bottom: 92.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 88.19%;
+right: 11.39%;
+top: 7.52%;
+bottom: 92.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 90%;
+right: 9.58%;
+top: 7.52%;
+bottom: 92.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 91.81%;
+right: 7.78%;
+top: 7.52%;
+bottom: 92.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 93.61%;
+right: 5.97%;
+top: 7.52%;
+bottom: 92.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 95.42%;
+right: 4.17%;
+top: 7.52%;
+bottom: 92.37%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* image 1 */
+
+position: absolute;
+width: 465px;
+height: 698px;
+left: 837px;
+top: 208px;
+
+background: url(image.png);
+
+
+/* Feel your home with a modern design space */
+
+position: absolute;
+width: 650px;
+height: 227px;
+left: 100px;
+top: 392px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 67px;
+
+color: #282A30;
+
+
+
+/* DECORATE HOME */
+
+position: absolute;
+width: 171px;
+height: 0px;
+left: 100px;
+top: 330px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 0%;
+/* identical to box height, or 0px */
+
+color: #F7515C;
+
+
+
+/* btn-discover */
+
+position: absolute;
+width: 207px;
+height: 78px;
+left: 100px;
+top: 666px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 207px;
+height: 78px;
+left: 100px;
+top: 666px;
+
+background: #F7515C;
+
+
+/* Discover */
+
+position: absolute;
+width: 98px;
+height: 27px;
+left: 154px;
+top: 692px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* btn-watch */
+
+position: absolute;
+width: 225px;
+height: 58px;
+left: 374px;
+top: 677px;
+
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 58px;
+height: 58px;
+left: 374px;
+top: 677px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 70px rgba(0, 0, 0, 0.15);
+
+
+/* Watch video */
+
+position: absolute;
+width: 143px;
+height: 27px;
+left: 456px;
+top: 693px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: #282A30;
+
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 21px;
+height: 21px;
+left: 413px;
+top: 696px;
+
+background: #282A30;
+border-radius: 1px;
+transform: rotate(90deg);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 35px;
+height: 264px;
+left: 0px;
+top: 232px;
+
+background: #F7515C;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 451px;
+height: 702px;
+left: 887px;
+top: 273px;
+
+background: rgba(229, 229, 229, 0.1);
+
+
+/* Group 16 */
+
+position: absolute;
+width: 896px;
+height: 698.5px;
+left: -45px;
+top: 217.5px;
+
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 0px;
+height: 698.5px;
+left: 188px;
+top: 217.5px;
+
+border: 2px solid rgba(0, 0, 0, 0.05);
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 0px;
+height: 698.5px;
+left: 720px;
+top: 217.5px;
+
+border: 2px solid rgba(0, 0, 0, 0.05);
+
+
+/* Vector 8 */
+
+position: absolute;
+width: 0px;
+height: 698.5px;
+left: 462px;
+top: 217.5px;
+
+border: 2px solid rgba(0, 0, 0, 0.05);
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 0px;
+height: 896px;
+left: -45px;
+top: 294px;
+
+border: 2px solid rgba(0, 0, 0, 0.05);
+transform: rotate(-90deg);
+
+
+/* Vector 6 */
+
+position: absolute;
+width: 0px;
+height: 896px;
+left: -45px;
+top: 567px;
+
+border: 2px solid rgba(0, 0, 0, 0.05);
+transform: rotate(-90deg);
+
+
+/* Vector 7 */
+
+position: absolute;
+width: 0px;
+height: 896px;
+left: -45px;
+top: 840px;
+
+border: 2px solid rgba(0, 0, 0, 0.05);
+transform: rotate(-90deg);
+
+
+/* About */
+
+position: absolute;
+width: 1177px;
+height: 810.29px;
+left: 52px;
+top: 1225px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 440px;
+height: 305px;
+left: 192px;
+top: 1557px;
+
+background: #282A30;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 205px;
+height: 180px;
+left: 52px;
+top: 1746px;
+
+background: #282A30;
+
+
+/* image 2 */
+
+position: absolute;
+width: 483px;
+height: 723px;
+left: 100px;
+top: 1225px;
+
+background: url(image.png);
+
+
+/* Furniture */
+
+position: absolute;
+width: 491px;
+height: 122px;
+left: 711px;
+top: 1350px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 122px;
+/* identical to box height */
+
+border: 2px solid #282A30;
+
+
+/* About */
+
+position: absolute;
+width: 194px;
+height: 73px;
+left: 711px;
+top: 1277px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 73px;
+
+color: #282A30;
+
+
+
+/* People have been using natural objects, such as tree stumps, rocks and moss, as furniture since the beginning of human civilisation. */
+
+position: absolute;
+width: 518px;
+height: 128px;
+left: 711px;
+top: 1527px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 30px;
+
+color: rgba(40, 42, 48, 0.5);
+
+
+
+/* btn-read */
+
+position: absolute;
+width: 230px;
+height: 78px;
+left: 711px;
+top: 1703px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 230px;
+height: 78px;
+left: 711px;
+top: 1703px;
+
+background: #F7515C;
+
+
+/* Read more */
+
+position: absolute;
+width: 125px;
+height: 27px;
+left: 764px;
+top: 1729px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Group 13 */
+
+position: absolute;
+left: 13.33%;
+right: 53.19%;
+top: 30.77%;
+bottom: 63.78%;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 13.33%;
+right: 86.04%;
+top: 30.77%;
+bottom: 69.06%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 16.07%;
+right: 83.3%;
+top: 30.77%;
+bottom: 69.06%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 18.81%;
+right: 80.56%;
+top: 30.77%;
+bottom: 69.06%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 21.54%;
+right: 77.82%;
+top: 30.77%;
+bottom: 69.06%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 24.28%;
+right: 75.09%;
+top: 30.77%;
+bottom: 69.06%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 27.02%;
+right: 72.35%;
+top: 30.77%;
+bottom: 69.06%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 29.76%;
+right: 69.61%;
+top: 30.77%;
+bottom: 69.06%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 32.49%;
+right: 66.88%;
+top: 30.77%;
+bottom: 69.06%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 35.23%;
+right: 64.14%;
+top: 30.77%;
+bottom: 69.06%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 37.97%;
+right: 61.4%;
+top: 30.77%;
+bottom: 69.06%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 40.7%;
+right: 58.66%;
+top: 30.77%;
+bottom: 69.06%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 43.44%;
+right: 55.93%;
+top: 30.77%;
+bottom: 69.06%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 46.18%;
+right: 53.19%;
+top: 30.77%;
+bottom: 69.06%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 13.33%;
+right: 86.04%;
+top: 31.52%;
+bottom: 68.31%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 16.07%;
+right: 83.3%;
+top: 31.52%;
+bottom: 68.31%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 18.81%;
+right: 80.56%;
+top: 31.52%;
+bottom: 68.31%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 21.54%;
+right: 77.82%;
+top: 31.52%;
+bottom: 68.31%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 24.28%;
+right: 75.09%;
+top: 31.52%;
+bottom: 68.31%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 27.02%;
+right: 72.35%;
+top: 31.52%;
+bottom: 68.31%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 29.76%;
+right: 69.61%;
+top: 31.52%;
+bottom: 68.31%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 32.49%;
+right: 66.88%;
+top: 31.52%;
+bottom: 68.31%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 35.23%;
+right: 64.14%;
+top: 31.52%;
+bottom: 68.31%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 37.97%;
+right: 61.4%;
+top: 31.52%;
+bottom: 68.31%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 40.7%;
+right: 58.66%;
+top: 31.52%;
+bottom: 68.31%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 43.44%;
+right: 55.93%;
+top: 31.52%;
+bottom: 68.31%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 46.18%;
+right: 53.19%;
+top: 31.52%;
+bottom: 68.31%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 13.33%;
+right: 86.04%;
+top: 32.27%;
+bottom: 67.55%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 16.07%;
+right: 83.3%;
+top: 32.27%;
+bottom: 67.55%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 18.81%;
+right: 80.56%;
+top: 32.27%;
+bottom: 67.55%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 21.54%;
+right: 77.82%;
+top: 32.27%;
+bottom: 67.55%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 24.28%;
+right: 75.09%;
+top: 32.27%;
+bottom: 67.55%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 27.02%;
+right: 72.35%;
+top: 32.27%;
+bottom: 67.55%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 29.76%;
+right: 69.61%;
+top: 32.27%;
+bottom: 67.55%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 32.49%;
+right: 66.88%;
+top: 32.27%;
+bottom: 67.55%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 35.23%;
+right: 64.14%;
+top: 32.27%;
+bottom: 67.55%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 37.97%;
+right: 61.4%;
+top: 32.27%;
+bottom: 67.55%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 40.7%;
+right: 58.66%;
+top: 32.27%;
+bottom: 67.55%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 43.44%;
+right: 55.93%;
+top: 32.27%;
+bottom: 67.55%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 46.18%;
+right: 53.19%;
+top: 32.27%;
+bottom: 67.55%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 13.33%;
+right: 86.04%;
+top: 33.03%;
+bottom: 66.8%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 16.07%;
+right: 83.3%;
+top: 33.03%;
+bottom: 66.8%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 18.81%;
+right: 80.56%;
+top: 33.03%;
+bottom: 66.8%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 21.54%;
+right: 77.82%;
+top: 33.03%;
+bottom: 66.8%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 24.28%;
+right: 75.09%;
+top: 33.03%;
+bottom: 66.8%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 27.02%;
+right: 72.35%;
+top: 33.03%;
+bottom: 66.8%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 29.76%;
+right: 69.61%;
+top: 33.03%;
+bottom: 66.8%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 32.49%;
+right: 66.88%;
+top: 33.03%;
+bottom: 66.8%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 35.23%;
+right: 64.14%;
+top: 33.03%;
+bottom: 66.8%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 37.97%;
+right: 61.4%;
+top: 33.03%;
+bottom: 66.8%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 40.7%;
+right: 58.66%;
+top: 33.03%;
+bottom: 66.8%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 43.44%;
+right: 55.93%;
+top: 33.03%;
+bottom: 66.8%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 46.18%;
+right: 53.19%;
+top: 33.03%;
+bottom: 66.8%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 13.33%;
+right: 86.04%;
+top: 33.78%;
+bottom: 66.05%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 16.07%;
+right: 83.3%;
+top: 33.78%;
+bottom: 66.05%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 18.81%;
+right: 80.56%;
+top: 33.78%;
+bottom: 66.05%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 21.54%;
+right: 77.82%;
+top: 33.78%;
+bottom: 66.05%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 24.28%;
+right: 75.09%;
+top: 33.78%;
+bottom: 66.05%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 27.02%;
+right: 72.35%;
+top: 33.78%;
+bottom: 66.05%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 29.76%;
+right: 69.61%;
+top: 33.78%;
+bottom: 66.05%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 32.49%;
+right: 66.88%;
+top: 33.78%;
+bottom: 66.05%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 35.23%;
+right: 64.14%;
+top: 33.78%;
+bottom: 66.05%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 37.97%;
+right: 61.4%;
+top: 33.78%;
+bottom: 66.05%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 40.7%;
+right: 58.66%;
+top: 33.78%;
+bottom: 66.05%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 43.44%;
+right: 55.93%;
+top: 33.78%;
+bottom: 66.05%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 46.18%;
+right: 53.19%;
+top: 33.78%;
+bottom: 66.05%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 13.33%;
+right: 86.04%;
+top: 34.53%;
+bottom: 65.29%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 16.07%;
+right: 83.3%;
+top: 34.53%;
+bottom: 65.29%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 18.81%;
+right: 80.56%;
+top: 34.53%;
+bottom: 65.29%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 21.54%;
+right: 77.82%;
+top: 34.53%;
+bottom: 65.29%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 24.28%;
+right: 75.09%;
+top: 34.53%;
+bottom: 65.29%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 27.02%;
+right: 72.35%;
+top: 34.53%;
+bottom: 65.29%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 29.76%;
+right: 69.61%;
+top: 34.53%;
+bottom: 65.29%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 32.49%;
+right: 66.88%;
+top: 34.53%;
+bottom: 65.29%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 35.23%;
+right: 64.14%;
+top: 34.53%;
+bottom: 65.29%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 37.97%;
+right: 61.4%;
+top: 34.53%;
+bottom: 65.29%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 40.7%;
+right: 58.66%;
+top: 34.53%;
+bottom: 65.29%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 43.44%;
+right: 55.93%;
+top: 34.53%;
+bottom: 65.29%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 46.18%;
+right: 53.19%;
+top: 34.53%;
+bottom: 65.29%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 13.33%;
+right: 86.04%;
+top: 35.29%;
+bottom: 64.54%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 16.07%;
+right: 83.3%;
+top: 35.29%;
+bottom: 64.54%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 18.81%;
+right: 80.56%;
+top: 35.29%;
+bottom: 64.54%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 21.54%;
+right: 77.82%;
+top: 35.29%;
+bottom: 64.54%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 24.28%;
+right: 75.09%;
+top: 35.29%;
+bottom: 64.54%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 27.02%;
+right: 72.35%;
+top: 35.29%;
+bottom: 64.54%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 29.76%;
+right: 69.61%;
+top: 35.29%;
+bottom: 64.54%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 32.49%;
+right: 66.88%;
+top: 35.29%;
+bottom: 64.54%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 35.23%;
+right: 64.14%;
+top: 35.29%;
+bottom: 64.54%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 37.97%;
+right: 61.4%;
+top: 35.29%;
+bottom: 64.54%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 40.7%;
+right: 58.66%;
+top: 35.29%;
+bottom: 64.54%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 43.44%;
+right: 55.93%;
+top: 35.29%;
+bottom: 64.54%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 46.18%;
+right: 53.19%;
+top: 35.29%;
+bottom: 64.54%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 13.33%;
+right: 86.04%;
+top: 36.04%;
+bottom: 63.78%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 16.07%;
+right: 83.3%;
+top: 36.04%;
+bottom: 63.78%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 18.81%;
+right: 80.56%;
+top: 36.04%;
+bottom: 63.78%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 21.54%;
+right: 77.82%;
+top: 36.04%;
+bottom: 63.78%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 24.28%;
+right: 75.09%;
+top: 36.04%;
+bottom: 63.78%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 27.02%;
+right: 72.35%;
+top: 36.04%;
+bottom: 63.78%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 29.76%;
+right: 69.61%;
+top: 36.04%;
+bottom: 63.78%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 32.49%;
+right: 66.88%;
+top: 36.04%;
+bottom: 63.78%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 35.23%;
+right: 64.14%;
+top: 36.04%;
+bottom: 63.78%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 37.97%;
+right: 61.4%;
+top: 36.04%;
+bottom: 63.78%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 40.7%;
+right: 58.66%;
+top: 36.04%;
+bottom: 63.78%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 43.44%;
+right: 55.93%;
+top: 36.04%;
+bottom: 63.78%;
+
+background: #3B4C68;
+opacity: 0.1;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 46.18%;
+right: 53.19%;
+top: 36.04%;
+bottom: 63.78%;
+
+background: #3B4C68;
+opacity: 0.1;
